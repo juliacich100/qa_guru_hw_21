@@ -1,0 +1,12 @@
+*.pyc
+__pycache__/
+.pytest_cache/
+.idea
+.python-version
+reports/
+config.personal.env
+*.log
+demo
+browserstack_sample.py
+tests/android/allure-results
+
